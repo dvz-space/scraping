@@ -1,0 +1,11 @@
+http://twitter.com/share
+
+Post a Tweet on Twitter
+Tue Nov  8 16:26:11 2016
+*****
+https://twitter.com/signup?context=webintent
+https://twitter.com/signup?context=webintent
+@@@
+/home
+/account/begin_password_reset
+//support.twitter.com/groups/31-twitter-basics/topics/104-welcome-to-twitter-support/articles/215585-twitter-101-how-should-i-get-started-using-twitter

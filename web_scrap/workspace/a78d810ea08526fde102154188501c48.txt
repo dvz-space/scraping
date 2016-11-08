@@ -1,0 +1,23 @@
+http://zacklipton.com
+
+Zack Chase Lipton's Home Page - Music and Machine Learning
+Tue Nov  8 16:26:37 2016
+*****
+http://ai.ucsd.edu/
+https://arxiv.org/abs/1608.05081
+http://arxiv.org/pdf/1511.03677
+http://zacklipton.com/media/papers/lazyupdates_zacharylipton2015.pdf
+http://link.springer.com/chapter/10.1007%2F978-3-662-44851-9_15
+http://arxiv.org/pdf/1506.00019.pdf
+http://arxiv.org/pdf/1412.7584
+http://www.kdnuggets.com
+http://blog.terminal.com/author/zachary-chase-lipton/
+http://approximatelycorrect.com
+@@@
+/
+/publications
+/articles
+/presentations
+/tour
+/contact
+spectrum.ieee.org/computing/software/the-neural-network-that-remembers
